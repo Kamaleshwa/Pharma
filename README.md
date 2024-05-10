@@ -389,9 +389,6 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![image](https://github.com/Kamaleshwa/Pharma/assets/144980199/d4e3db89-e0a2-43a9-8a4c-8e2e35a22ff7)
-
-![image](https://github.com/Kamaleshwa/Pharma/assets/144980199/6c5c2a37-4db5-43b3-9ef3-f938ffba5936)
 
 ![image](https://github.com/Kamaleshwa/Pharma/assets/144980199/a072ea7f-1754-4359-82e8-9dfcb893d323)
 
